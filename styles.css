@@ -1,0 +1,23 @@
+#chees {
+    border-collapse: collapse;
+    text-align: center;
+    margin: 30px auto;  
+}
+
+.cellLight{
+    height: 65px;
+    width: 65px;
+    background-color: #ffc488;
+}
+
+.cellDark{
+    height: 50px;
+    width: 50px;
+    background-color: #6a3500;
+}
+.bord{
+    width: 25px;
+    height: 25px;
+    background-color: #d17d56;
+    text-transform: uppercase;
+}
